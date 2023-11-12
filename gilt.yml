@@ -3,7 +3,7 @@
   version: main
   files:
     - src: src/render-images.py
-      dst: ./environments/manager/render-images.pyy
+      dst: ./environments/manager/render-images.py
     - src: gilt.yml
       dst: ./gilt.yml
     - src: requirements.txt
